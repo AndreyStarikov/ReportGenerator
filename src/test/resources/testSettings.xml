@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+    <page>
+        <width>30</width>
+        <height>22</height>
+    </page>
+    <columns>
+        <column>
+            <title>ТестовоеПоле</title>
+            <width>20</width>
+        </column>
+    </columns>
+</settings>
